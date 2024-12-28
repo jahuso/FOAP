@@ -1,0 +1,12 @@
+{
+  "Niche": "Restaurant",
+  "Features": 4,
+  "Size": 25,
+  "Name": "Bistro",
+  "DbEngine": "SQL",
+  "IsResponsive": true,
+  "IsIntegrated": true,
+  "IsQAIncluded": true,
+  "IsDocumented": true,
+  "IsSupported": true
+}

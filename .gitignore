@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CaFOAP/bin/Debug/net8.0
+/CaFOAP/obj
+/FOAP.API/bin/Debug/net8.0
+/FOAP.API/obj
+/FOAP.API/appsettings.Development.json
+/FOAP.Dummy/bin/Debug/net8.0
+/FOAP.Dummy/obj
