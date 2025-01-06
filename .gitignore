@@ -10,3 +10,5 @@
 /FOAP.API/appsettings.Development.json
 /FOAP.Dummy/bin/Debug/net8.0
 /FOAP.Dummy/obj
+/CaFOAPDemo/bin/Debug/net8.0
+/CaFOAPDemo/obj
